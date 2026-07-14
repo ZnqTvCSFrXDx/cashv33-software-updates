@@ -1,10 +1,10 @@
 {
-  "version": "33.03",
-  "message": "Cash Software v33.02 is available.",
+  "version": "33.01",
+  "message": "Cash Software v33.01 is available.",
   "url": "https://github.com/ZnqTvCSFrXDx/cashv33-software-updates/releases/latest",
   "whatsNewText": "Faster scans and updated debloat presets.",
   "notes": [
-    "New verion v33.02",
+    "New verion v33.01",
     "Fixed the stucked in installing softwares",
     "Removed the Windows update feature"
   ]
