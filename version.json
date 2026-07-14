@@ -1,5 +1,11 @@
 {
-  "version": "33.01",
-  "message": "Cash Software v33.01 is available.",
-  "url": "https://github.com/ZnqTvCSFrXDx/cashv33-software-updates/releases/latest"
+  "version": "33.02",
+  "message": "Cash Software v33.02 is available.",
+  "url": "https://github.com/ZnqTvCSFrXDx/cashv33-software-updates/releases/latest",
+  "whatsNewText": "Faster scans and updated debloat presets.",
+  "notes": [
+    "Faster scans across all tweak categories.",
+    "Updated debloat presets with new safe-to-remove apps.",
+    "General performance and stability improvements."
+  ]
 }
