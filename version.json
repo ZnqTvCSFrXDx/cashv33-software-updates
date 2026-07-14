@@ -4,8 +4,8 @@
   "url": "https://github.com/ZnqTvCSFrXDx/cashv33-software-updates/releases/latest",
   "whatsNewText": "Faster scans and updated debloat presets.",
   "notes": [
-    "Faster scans across all tweak categories.",
-    "Updated debloat presets with new safe-to-remove apps.",
-    "General performance and stability improvements."
+    "New verion v33.02",
+    "Fixed the stucked in installing softwares",
+    "Removed the Windows update feature"
   ]
 }
